@@ -8,11 +8,10 @@ import altair as alt
 st.set_page_config(page_title="Cross-Asset Market Regime Monitor", layout="wide")
 
 # Define the GitHub raw URLs for the CSV files
-# Update these URLs with your GitHub repository paths
-COMMODITIES_URL = "https://raw.githubusercontent.com/YOUR-USERNAME/Streamlit-project/refs/heads/main/Commodities_2Y.csv"
-FOREX_URL = "https://raw.githubusercontent.com/YOUR-USERNAME/Streamlit-project/refs/heads/main/Forex_2Y.csv"
-FIXED_INCOME_URL = "https://raw.githubusercontent.com/YOUR-USERNAME/Streamlit-project/refs/heads/main/FixedIncome_2Y.csv"
-INDICES_URL = "https://raw.githubusercontent.com/YOUR-USERNAME/Streamlit-project/refs/heads/main/Indices_2Y.csv"
+COMMODITIES_URL = "https://raw.githubusercontent.com/Georgesthecatapillar/Financial-Dashboard/refs/heads/main/Commodities_2Y.csv"
+FOREX_URL = "https://raw.githubusercontent.com/Georgesthecatapillar/Financial-Dashboard/refs/heads/main/Forex_2Y.csv"
+FIXED_INCOME_URL = "https://raw.githubusercontent.com/Georgesthecatapillar/Financial-Dashboard/refs/heads/main/FixedIncome_2Y.csv"
+INDICES_URL = "https://raw.githubusercontent.com/Georgesthecatapillar/Financial-Dashboard/refs/heads/main/Indices_2Y.csv"
 
 # Predefined list of tickers based on user input
 TICKERS = {

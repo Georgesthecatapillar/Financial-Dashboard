@@ -35,8 +35,8 @@ Les données sont chargées depuis des fichiers CSV :
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/Streamlit-project.git
-cd Streamlit-project
+git clone https://github.com/Georgesthecatapillar/Financial-Dashboard.git
+cd Financial-Dashboard
 ```
 
 ### 2. Créer un environnement virtuel (optionnel mais recommandé)
