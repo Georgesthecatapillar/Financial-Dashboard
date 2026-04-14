@@ -1,5 +1,7 @@
 # Market Dashboard Skema
 
+🚀 **[Accéder au dashboard en ligne](https://financial-dashboard-h7szhl7k7gbegyjbum2pic.streamlit.app/)**
+
 Un dashboard interactif pour surveiller les régimes de marché multi-actifs en temps réel, construit avec Streamlit et des données réelles.
 
 ## 📊 Fonctionnalités
